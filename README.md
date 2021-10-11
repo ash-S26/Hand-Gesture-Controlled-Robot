@@ -7,9 +7,10 @@ This project is all about creating a robot which can be controlled with hand ges
  1) Image processing library opencv 
  2) ROS(Robot operating system , version-noetic)
  3) Gazebo (if not installed along with ROS)
- 4) pakages- ros_controll {To be cloned in catkin_ws}
-         - Join_state_controller (if not included in ros_controll) {To be cloned in src folder of catkin_ws}
-         - Turtlebot3 pakage - (https://emanual.robotis.com/docs/en/platform/turtlebot3/simulation/#gazebo-simulation) {To be cloned in src folder of catkin_ws}
+ 4) pakages
+    ros_controll {To be cloned in catkin_ws}
+   - Join_state_controller (if not included in ros_controll) {To be cloned in src folder of catkin_ws}
+   - Turtlebot3 pakage - (https://emanual.robotis.com/docs/en/platform/turtlebot3/simulation/#gazebo-simulation) {To be cloned in src folder of catkin_ws}
          
 
 
