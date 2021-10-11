@@ -42,7 +42,7 @@ ________________________
   1) git clone 
   2) export TURTLEBOT3_MODEL=burger
   3) roslaunch turtlebot3_gazebo turtlebot3_empty_world.launch
-  Finally run the code by navigating to directory where you cloned and then to where is code Hand_Gestur_Controlled_Robot.py
+  -Finally run the code by navigating to directory where you cloned and then to where is code Hand_Gestur_Controlled_Robot.py
   4) python3 Hand_Gestur_Controlled_Robot.py
   5) Or you can run code from any code editor.
   
