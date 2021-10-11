@@ -47,7 +47,13 @@ ________________________
   
 # RESULTS 
 __________
+  HAND_GESTURE_DETECTION 🦖 :-
+  _________________________________
+  
+  ![]
+  
   CONTROLLING ROBOT WITH HAND 🦖 :-
+  ________________________________________
   
   ![](https://github.com/ash-S26/HAND-GESTURE-CONTROLLED-ROBOT/blob/main/RESULTS/HAND_GESTURE_CONTROLLED_ROBOT.gif)
   
