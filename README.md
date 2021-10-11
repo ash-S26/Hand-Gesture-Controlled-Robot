@@ -3,6 +3,9 @@ This project is all about creating a robot which can be controlled with hand ges
  1) Detection of Hand_Gesture using opencv library.
  2) Integrating Hand_Gesture to publish commands to robot.
 
+# DEPENDENCIES/PAKAGES
+  
+
 
 # ALORITHM
 
@@ -17,5 +20,10 @@ This project is all about creating a robot which can be controlled with hand ges
       - Area of contour for different gestures.
    
  # ALGORITHM FOR ROBOT
-   1)
-
+   For this project we used ROS noetic, turtlesim and turtlebot3.
+   1) We used gazebo for simulation.
+   2) We used ros-topic /cmd_vel for publishing velocity message to robot in gazebo simulation.
+ 
+ # INTEGRATION
+   Finally we publish angular and linear velocity as per motion we want on specific Hand_Gesture.
+   
