@@ -5,6 +5,7 @@ This project is all about creating a robot which can be controlled with hand ges
  2) Integrating Hand_Gesture to publish commands to robot.
 
 # DEPENDENCIES/PAKAGES
+________________________
  1) Image processing library opencv 
  2) ROS(Robot operating system , version-noetic)
  3) Gazebo (if not installed along with ROS)
@@ -16,6 +17,7 @@ This project is all about creating a robot which can be controlled with hand ges
 
 
 # ALORITHM
+____________
 
  # ALORITHM FOR DETECTION OF HAND_GESTURE
    1) Seperate out the skin color from the input frame (captured through attached camera) using HSV or other color format with upper and lower bound for skin color as per range.
