@@ -1,4 +1,4 @@
-# Hand-Gesture-Controlled-Robot
+# HAND-GESTURE-CONTROLLED-ROBOT
 ________________________________
 This project is all about creating a robot which can be controlled with hand gestures which have commands like rotate, move forward and backward, accelarate and stop.The project have two parts ➡
  1) Detection of Hand_Gesture using opencv library.
